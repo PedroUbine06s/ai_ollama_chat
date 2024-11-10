@@ -18,7 +18,7 @@ Um aplicativo simples em Flutter que demonstra comunicação assíncrona atravé
 ## Como Executar
 
 1. Clone o repositório
-2. rode o comando
+2. Use o comando
 
 ```bash
     flutter run -b chrome
